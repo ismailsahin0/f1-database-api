@@ -1,6 +1,6 @@
 ## Common setup
 
-Clone the repo and install the dependencies. Construct a .env file on root path.
+Clone the repo and install the dependencies. Construct a .env file on root path. Run migration.sql file on your database.
 
 ```bash
 git clone https://github.com/ismailsahin0/f1-database-api.git
